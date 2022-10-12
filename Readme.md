@@ -47,16 +47,17 @@ Para la solución de esta prueba es necesario tomar en cuenta:
 
 ----------
 
-## Realiza el push del código de tus pruebas y compártenos el link a tu repositorio remoto  😊
+## Realiza el push del y compártenos el link a tu repositorio remoto  😊
 
 
 
 Si tienes alguna duda sobre la evaluación puedes mandar un correo electrónico a:
--- rodrigo.mendoza@overcastmx.com
--- dmendoza@overcastmx.com
--- rmendoza@overcastmx.com
+- rodrigo.mendoza@overcastmx.com
+- dmendoza@overcastmx.com
+- rmendoza@overcastmx.com
 
 Manda la liga de tu repositorio público a 
--- rodrigo.mendoza@overcastmx.com
--- dmendoza@overcastmx.com
--- rmendoza@overcastmx.com
+- alara@overcastmx.com
+- rodrigo.mendoza@overcastmx.com
+- dmendoza@overcastmx.com
+- rmendoza@overcastmx.com
