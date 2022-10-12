@@ -41,8 +41,6 @@ _Nota: Para realizar esta prueba es necesario tener una instancia de [SQL Server
 
 Para la solución de esta prueba es necesario tomar en cuenta:
 
--   Uso de principios SOLID
--   Uso de patrones de diseño de software
 -   Uso de un ORM (opcional)
 -   Uso de algún framework CSS (opcional)
 -   Agregar la documentación que se necesite para ejecutar las aplicaciones
