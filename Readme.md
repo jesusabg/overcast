@@ -1,7 +1,9 @@
 #  Evaluación técnica Overcast
 
-Prueba: **Desarrollador Middle**
+Prueba: **Desarrollador**
+
 Deadline: **36 horas**
+
 Nombre completo: **Aquí va tu nombre**
 
 ## Clona y crea tu repositorio para la evaluación
@@ -16,9 +18,9 @@ Nombre completo: **Aquí va tu nombre**
 La prueba consistirá en construir una API REST (basada en .NET preferentemente, pero puedes utilizar el lenguaje que más te guste) y una aplicación web (ocupando algún framework de JavaScript como por ejemplo Angular, Vue o React), que solucionen los siguientes puntos:
 
 -   Página de inicio de sesión que utilice.
--- Inicio de sesión de Google
--- Inicio de sesión de Microsoft
--- Inicio de sesión de Facebook (Opcional)
+    - Inicio de sesión de Google
+    - Inicio de sesión de Microsoft
+    - Inicio de sesión de Facebook (Opcional)
 
 -   Una vez que el usuario inició sesión, el usuario debe poder realizar los siguientes puntos:
     -   Crear tareas con las siguientes propiedades:
